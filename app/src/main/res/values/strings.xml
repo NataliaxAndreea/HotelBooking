@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HotelBooking</string>
+
+    <string-array name="type">
+        <item>Select Room</item>
+        <item>Standard Room</item>
+        <item>Double Room</item>
+        <item>Apartment</item>
+    </string-array>
+
+</resources>
